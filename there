@@ -77,7 +77,7 @@
       const question = document.querySelector(".question");
 
       // jumlah gambar
-      const MAX_IMAGES = 2;
+      const MAX_IMAGES = 5;
 
       let play = true;
       let count = 0;
